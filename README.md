@@ -1,1 +1,1 @@
-# mProduct Recommendation System
+# Product Recommendation System
