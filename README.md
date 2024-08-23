@@ -1,1 +1,1 @@
-# major-project
+# mProduct Recommendation System
